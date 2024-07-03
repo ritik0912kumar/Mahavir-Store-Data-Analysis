@@ -85,5 +85,9 @@ Here's a detailed description of how I analyzed the Mahavir Store data using Exc
    - Placing Pivot Tables, Charts, and Slicers in a visually appealing and logical layout.
    - Ensuring that the dashboard is user-friendly and easy to understand.
 
+## Snapsort of Mahavir Store Data Analysis
+![Screenshot 2024-07-03 210449](https://github.com/ritik0912kumar/Mahavir-Store-Data-Analysis/assets/126445623/18dcce04-37fb-4d61-a781-4f7307578b16)
+
+
 ### Conclusion
 By following these steps, you can effectively analyze any types of raw data using Excel tools. Pivot Tables will help summarize and analyze large datasets, Slicers will provide interactive filtering options, and Graphs/Charts will visually represent the data trends and patterns. This analysis will enable better decision-making and provide valuable insights into the store's performance.
