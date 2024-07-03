@@ -33,6 +33,16 @@ Here's a detailed description of how I analyzed the Mahavir Store data using Exc
    - Drag and drop fields into the `Rows`, `Columns`, `Values`, and `Filters` areas to analyze your data.
    - For example, you can analyze total sales by month, product category, or sales representative.
 
+## Snapsort Of Pivot Tables
+![Screenshot 2024-07-03 213724](https://github.com/ritik0912kumar/Mahavir-Store-Data-Analysis/assets/126445623/0247095d-8bb9-4597-ad96-8574044f6865)
+
+![Screenshot 2024-07-03 213746](https://github.com/ritik0912kumar/Mahavir-Store-Data-Analysis/assets/126445623/7072ff37-de92-44fc-8cec-efcaa373c977)
+
+![Screenshot 2024-07-03 213806](https://github.com/ritik0912kumar/Mahavir-Store-Data-Analysis/assets/126445623/ca4486e3-7a7c-451b-97ad-b1b55da7ffc8)
+
+![Screenshot 2024-07-03 213858](https://github.com/ritik0912kumar/Mahavir-Store-Data-Analysis/assets/126445623/1ee81910-650b-4139-953c-ebf0a67a3040)
+
+
 ### Step 4: Using Slicers for Interactive Filtering
 1. **Add Slicers**:
    - Click on the Pivot Table.
