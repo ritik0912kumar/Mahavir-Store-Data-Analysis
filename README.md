@@ -53,6 +53,10 @@ Here's a detailed description of how I analyzed the Mahavir Store data using Exc
    - Slicers will appear as buttons that allow you to filter the Pivot Table data interactively.
    - Click on the buttons to filter the data displayed in the Pivot Table.
 
+## Snapsort of Slicer
+![Screenshot 2024-07-03 214133](https://github.com/ritik0912kumar/Mahavir-Store-Data-Analysis/assets/126445623/81eb2a9c-4ff9-4d09-a13a-f808b924e18c)
+
+
 ### Step 5: Creating Graphs and Charts
 1. **Insert Charts**:
    - Click anywhere in your Pivot Table.
